@@ -1,6 +1,6 @@
-# Bookstore Application - MERN Stack
+# StoreBook Application - MERN Stack
 
-This project is a bookstore application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to view a list of books, add new books, and edit or delete existing ones.
+This project is a personal library application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to view a list of books, add new books, and edit or delete existing ones.
 
 ## Inspiration
 
